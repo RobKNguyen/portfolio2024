@@ -1,0 +1,16 @@
+{
+    "heroLinks": [
+        {
+            "txt": "LinkedIn",
+            "img": "/Icons/Vectors-Wrapper_1.svg"
+        },
+        {
+            "txt": "GitHub",
+            "img": "/Icons/Vectors-Wrapper_2.svg"
+        },
+        {
+            "txt": "Resume",
+            "img": "/Icons/Vectors-Wrapper_3.svg"
+        }
+    ]
+}
